@@ -50,7 +50,7 @@ for xd in range(10000):
 
 	aa='Mozilla/5.0 (Linux; U; Android'
 	b=random.choice(['5.1.1','6.0','7.0','7.1.1','7.1.2','8.0','8.1.0','9','10','11','12'])
-	c=random.choice(['en-us; XPOWER_P6000 Build/O11019','en-gb; XPOWER_P6000 Build/O11019','en-es; XPOWER_P6000 Build/O11019','en-au; XPOWER_P6000 Build/O11019','en-id; XPOWER_P6000 Build/O11019','id-id; XPOWER_P6000 Build/O11019','zh-tw; XPOWER_P6000 Build/O11019','zh-cn; XPOWER_P6000 Build/O11019','fr-fr; XPOWER_P6000 Build/O11019','pt-pt; XPOWER_P6000 Build/O11019','in-id; XPOWER_P6000 Build/O11019','de-de; XPOWER_P6000 Build/O11019','ja-jp; XPOWER_P6000 Build/O11019','uk-ua; XPOWER_P6000 Build/O11019','nl-nl; XPOWER_P6000 Build/O11019'])
+	c=random.choice(['en-us; Pixel 6 Pro Build/SQ3A.220705.004','en-gb; Pixel 6 Pro Build/SQ3A.220705.004','en-es; Pixel 6 Pro Build/SQ3A.220705.004','en-au; Pixel 6 Pro Build/SQ3A.220705.004','en-id; Pixel 6 Pro Build/SQ3A.220705.004','id-id; Pixel 6 Pro Build/SQ3A.220705.004','zh-tw; Pixel 6 Pro Build/SQ3A.220705.004','zh-cn; Pixel 6 Pro Build/SQ3A.220705.004','fr-fr; Pixel 6 Pro Build/SQ3A.220705.004','pt-pt; Pixel 6 Pro Build/SQ3A.220705.004','in-id; Pixel 6 Pro Build/SQ3A.220705.004','de-de; Pixel 6 Pro Build/SQ3A.220705.004','ja-jp; Pixel 6 Pro Build/SQ3A.220705.004','uk-ua; Pixel 6 Pro Build/SQ3A.220705.004','nl-nl; Pixel 6 Pro Build/SQ3A.220705.004'])
 	d='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
 	e=random.randrange(73,105)
 	f='0'
@@ -58,7 +58,7 @@ for xd in range(10000):
 	h=random.randrange(40,150)
 	i='Mobile Safari/537.36 Instagram'
 	j=random.choice(['245.0.0.18.108','180.0.0.31.119','170.0.0.30.474','222.0.0.15.114','29.0.0.13.95'])
-	k='Android (33/13; 420dpi; 1080x2219; Raylandz/XPOWER_P6000; XPOWER_P6000; L4N65; qcom;'
+	k='Android (33/13; 420dpi; 1080x2219; Google/google; Pixel 6 Pro; oriole; oriole;'
 	l=random.choice(['en_US','en_GB','en_ES','en_AU','en_IN','id_ID','zh_TW','zh_CN','fr_FR','pt_PT','in_ID','de_DE','ja_JP','uk_UA','nl_NL'])
 	m=random.randrange(99999999,999999999)
 	uaku2=f'{aa} {b}; {c}; wv) {d}{e}.{f}.{g}.{h} {i} {j} {k} {l}; {m})'
